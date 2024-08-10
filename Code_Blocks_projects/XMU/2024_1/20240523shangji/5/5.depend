@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1716706894 source:e:\files\cpp\code_blocks_projects\xmu\20240523shangji\5\main.cpp
+	<iostream>
+	<cstdio>
+	<vector>
+	<algorithm>
+
