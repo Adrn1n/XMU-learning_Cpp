@@ -1,8 +1,4 @@
-**/cmake-build-debug
-**/bin
-**/obj
-/CLionProjects/TEMP0
-/CLionProjects/TEMP1
-/CLionProjects/Qt_TEMP
-/Code_Blocks_projects/TEMP0
-/DINO_SFML
+cmake-build-debug/
+bin/
+obj/
+*TEMP*/
